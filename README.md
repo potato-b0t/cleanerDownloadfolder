@@ -13,4 +13,8 @@ Use start it
 
 open terminal and write: ./env/Scripts/activate
 
-next use: python 
+next use: pip install
+
+and use: python ./index.py
+
+with this run of script 
