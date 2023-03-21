@@ -8,3 +8,9 @@ images with formats ".jpg", ".png", ".jpeg", ".gif" and ".bmp" will be compresse
 executables will be picked on "C://users/(your user)/Documents/executions"
 Videos with formats ".mp4", ".mov", ".mkv" and ".avi" to "C://users/(your user)/Video/downloadVideo", it doesn't have a function compressor yet
 and Audio will go to "C:/Users/(your user)/Music/sounds"
+
+Use start it
+
+open terminal and write: ./env/Scripts/activate
+
+next use: python 
